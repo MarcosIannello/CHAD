@@ -1,0 +1,6 @@
+@CHAD_BACK_HostAddress = http://localhost:5253
+
+GET {{CHAD_BACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
